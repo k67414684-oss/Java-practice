@@ -9,7 +9,15 @@
       <excludeFolder url="file://$MODULE_DIR$/src/practice3" />
       <excludeFolder url="file://$MODULE_DIR$/src/practice4" />
       <excludeFolder url="file://$MODULE_DIR$/src/practice5" />
-      <excludeFolder url="file://$MODULE_DIR$/src/practice6" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork2" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork3" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork4" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork5" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork6" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork8" />
+      <excludeFolder url="file://$MODULE_DIR$/src/HomeWork9" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Practice9" />
+      <excludeFolder url="file://$MODULE_DIR$/src/practice08" />
       <excludeFolder url="file://$MODULE_DIR$/src/practice7" />
     </content>
     <orderEntry type="inheritedJdk" />
